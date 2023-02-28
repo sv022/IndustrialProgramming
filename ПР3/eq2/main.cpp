@@ -9,5 +9,5 @@ int main() {
 	eq2 Q(1, 2, 1);
 	eq2 L = P + Q;
 	L.find_x();
-  L.find_y(0);
+	L.find_y(0);
 }
